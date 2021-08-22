@@ -1,6 +1,11 @@
-# PASSPORT LOGIN PAGE
+<!-- ABOUT THE PROJECT -->
+# Passport Login Page
 
-Login functionality page build with passport
+Complete authentication application with login, register and access control.
 
-I followed this tutorial in order to build this beautiful application:
-https://www.youtube.com/watch?v=6FOq4cUdH8k&list=PLt_9KX1UD5Kla-4vzeasSPsot_oHc0iBU&index=1
+
+#### Build with:
+* NodeJs
+* Express
+* Mongoose
+* Passport
